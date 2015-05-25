@@ -1,0 +1,24 @@
+{
+  "name": "customevent-shim",
+  "version": "0.1.0",
+  "description": "Browser CustomEvent shim for node",
+  "main": "src/custom-event.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddiemoore/customevent-shim.git"
+  },
+  "keywords": [
+    "event",
+    "event-shim",
+    "customevent-shim"
+  ],
+  "author": "Ed Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddiemoore/customevent-shim/issues"
+  },
+  "homepage": "https://github.com/eddiemoore/customevent-shim"
+}
